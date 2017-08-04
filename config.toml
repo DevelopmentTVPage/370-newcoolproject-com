@@ -1,0 +1,11 @@
+#Hugo configuration
+title = "New Cool Project"
+baseURL = "https:\/\/newcoolproject.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758904"
+subfolder = ""
